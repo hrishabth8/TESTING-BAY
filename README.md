@@ -1,2 +1,2 @@
-# solutions
-this has solutions to the different questions i have solved on codeforces, codechefs etc
+# testbay
+this is my testing bay where i am testing things on github because i am new here
